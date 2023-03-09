@@ -275,6 +275,7 @@ like so:
 |madros |[V0 OLED-skirt](./madros/V0_skirt_OLED) |V0 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |:x:|
 | MasturMynd | [Stealth Zero](./MasturMynd/Stealth_Zero) | A low poly gantry with front tensioners and optional front mounted x rail | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 |MathematicalPotato| [V0.1 Belted Z Drive](./MathematicalPotato/v0.1_belted_z_drive) | Conversion to a belted Z axis for the V0.1 adapted from theFPVGeek's mod for the V0.0| :heavy_check_mark: | :x: | :x: | :x: |
+|MatrixRay| [LRS-150 DIN Mount](./MatrixRay/LRS150_DIN-Mount) | Bracket to mount a LRS-150 PSU using a DIN SSR bracket | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 |Maverick | [MiniSB_Sharkfin](./Maverick/MiniSB_Sharkfin) | Modified MiniSB to use a Sharkfin Extruder | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark: |
 | | [MiniSB_Rapido](./Maverick/MiniSB_Rapido) | Modified MiniSB to use a Rapido hotend | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark: |
 | | [MiniSB_LGXL](./Maverick/MiniSB_LGX_Lite) | A Bondtech LGX Lite variant of the MiniSB | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark: |
