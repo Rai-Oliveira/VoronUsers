@@ -1,11 +1,18 @@
-This mod was originally commissioned by Nightray#2320 over at Discord.
+This mod was originally commissioned by Nightray#2320 over at Discord.  
+The idea behind it is simple: Mount a Meanwell LRS-150 to DIN35 rail using a SSR mount.  
+# BOM:  
+2x M3x8  
+2~6x M4x12(depending on how many you want, 2 should suffice but there is room for more)  
+1x LRS-150  
+1x DIN SSR Mount  
 
-The idea behind it is simple: Mount a Meanwell LRS-150 to DIN35 rail using a SSR mount.
+# Assembly: 
 
-BOM:
-2x M3x8
-2~6x M4x12(depending on how many you want, 2 should suffice but there is room for more)
-1x LRS-150
-1x DIN SSR Mount
+![alt text](https://github.com/Rai-Oliveira/VoronUsers/blob/master/printer_mods/MatrixRay/LRS150_DIN-Mount/Images/top_without_psu.png)
+![alt text](https://github.com/Rai-Oliveira/VoronUsers/blob/master/printer_mods/MatrixRay/LRS150_DIN-Mount/Images/complete.png)
 
-Assembly: 
+Positioning and tightening on the screw to the right is a bit tricky but possible with the use of a ball end driver.  
+
+
+Here's a print of an earlier version with issues regarding thin features, later fixed.  
+![alt text](https://github.com/Rai-Oliveira/VoronUsers/blob/master/printer_mods/MatrixRay/LRS150_DIN-Mount/Images/old_ver_print.png)
